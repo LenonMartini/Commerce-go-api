@@ -3,7 +3,7 @@ package database
 import (
 	"database/sql"
 
-	"github.com/LenonMartini/Commerce-go-api/GOAPI/internal/entity"
+	"github.com/LenonMartini/Commerce-go-api/internal/entity"
 )
 
 type CategoryDB struct {

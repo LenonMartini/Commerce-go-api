@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/LenonMartini/Commerce-go-api/GOAPI/internal/entity"
-	"github.com/LenonMartini/Commerce-go-api/GOAPI/internal/service"
+	"github.com/LenonMartini/Commerce-go-api/internal/entity"
+	"github.com/LenonMartini/Commerce-go-api/internal/service"
 	"github.com/go-chi/chi/v5"
 )
 

@@ -1,8 +1,8 @@
 package service
 
 import (
-	"github.com/LenonMartini/Commerce-go-api/GOAPI/internal/database"
-	"github.com/LenonMartini/Commerce-go-api/GOAPI/internal/entity"
+	"github.com/LenonMartini/Commerce-go-api/internal/database"
+	"github.com/LenonMartini/Commerce-go-api/internal/entity"
 )
 
 type CategoryService struct {
