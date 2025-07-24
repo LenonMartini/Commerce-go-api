@@ -1,0 +1,7 @@
+./docker
+# Ignora dados do MySQL
+.docker/mysql/*
+!.docker/mysql/.gitkeep  # se quiser manter a pasta no repositório
+
+# Exceções (caso tenha alguma config que queira manter)
+!.docker/mysql/my.cnf
